@@ -15,6 +15,6 @@ Numpy is the very basic , common, and widely used library of Python. The topics 
 * Linear Algebra
 * Manipulate an Array
 *  Creating Dummy Dataset using Numpy &  Pandas 
-   -Create a 2Dimensional Dataset using Numpy
+** reate a 2Dimensional Dataset using Numpy
    -Creating a DataFrame using Numpy and Pandas
    -Creating Dummy Dataset using Random Generation of Numpy & DataFrane using Pandas 
