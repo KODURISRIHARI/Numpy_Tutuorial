@@ -4,6 +4,7 @@ Numpy is the very basic , common, and widely used library of Python. The topics 
 
 * Data Types supports of numpy 
 * Creating N-Dimensions of Arrays
+   - what happened when i create more than 3 - dimensions
 * Inspecting an Array
 * Sampling Methods 
 * Maths functions om array
@@ -13,6 +14,7 @@ Numpy is the very basic , common, and widely used library of Python. The topics 
 * Combine & Split an Array
 * Linear Algebra
 * Manipulate an Array
-* Create a 2Dimensional Dataset using Numpy
-* Creating a DataFrame using Numpy and Pandas
-* Creating Dummy Dataset using Random Generation of Numpy & DataFrane using Pandas 
+*  Creating Dummy Dataset using Numpy &  Pandas 
+   -Create a 2Dimensional Dataset using Numpy
+   -Creating a DataFrame using Numpy and Pandas
+   -Creating Dummy Dataset using Random Generation of Numpy & DataFrane using Pandas 
